@@ -1,0 +1,2 @@
+# PO-2019-IFCE-Prof.Ronaldo-CT0107
+Arquivos daquilo que é pedido na "Sétima contribuição da primeira etapa"(CountingSort( )). Obs: O aluno decidiu optar por, de forma adicional, exibir mais dois gráficos para analisar o  desempenho do SHELL SORT, sendo eles uma LISTA CRESCENTE e uma LISTA DECRESCENTE. Obs:.(devido a reta dos 3 gráficos ter sido muito semelhante, é aconselhado verificar a image "Graficos-CountingSort-(Comparativo de Escalas).png" para melhor análise comparativa).
